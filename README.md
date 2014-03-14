@@ -10,8 +10,6 @@ ColorCode-for-GoogleIME-Japanese
 - Traditional colors of Japan
 - 465 Hex Color Codes
 
-![japanese-color](https://f.cloud.github.com/assets/2749585/2418273/9b999e7c-ab3d-11e3-9a4b-06ea63d0677f.png)
-
 ### metro-color.txt
 
 - Theme color of a metro in Japan
