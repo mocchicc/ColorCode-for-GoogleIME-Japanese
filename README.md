@@ -8,6 +8,8 @@ ColorCode-for-GoogleIME-Japanese is a dictionary file for converting the Hex Col
 - Traditional colors of Japan
 - 465 Hex Color Codes
 
+![japanese-color](https://f.cloud.github.com/assets/2749585/2418269/7017aae6-ab3d-11e3-8574-11abb2d12233.png)
+
 ### metro-color.txt
 
 - Theme color of a metro in Japan
