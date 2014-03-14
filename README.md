@@ -10,12 +10,14 @@ ColorCode-for-GoogleIME-Japanese
 - Traditional colors of Japan
 - 465 Hex Color Codes
 
+![image](https://f.cloud.github.com/assets/2749585/2418314/6c3bcee6-ab3f-11e3-855d-dcbdf328602f.png)
+
 ### metro-color.txt
 
 - Theme color of a metro in Japan
 - (ex. Ginza-Line #f39700 )
 
-![metro-color](https://f.cloud.github.com/assets/2749585/2418261/38680e7e-ab3d-11e3-8cb8-f9aaff811571.png)
+![image](https://f.cloud.github.com/assets/2749585/2418316/8eae89aa-ab3f-11e3-800f-e7eafe4c9664.png)
 
 ## Usage
 
