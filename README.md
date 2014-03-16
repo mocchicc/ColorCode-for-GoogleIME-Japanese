@@ -4,6 +4,8 @@ ColorCode-for-GoogleIME-Japanese
 ```ColorCode-for-GoogleIME-Japanese``` is a dictionary file for converting the Hex Color Codes notation in Google-Japanese-IME.
 
 
+![example](http://www.mocchiblog.com/wp-content/images/2014/03/ss-2014-03-09-12.01.47.png)
+
 ### japanese-color.txt
 
 - Traditional colors of Japan
